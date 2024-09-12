@@ -7,8 +7,8 @@ Notre objectif sera d'afficher le texte "Hello" sur un marqueur AR de type code-
 
 Ce petit projet comprend aussi la réalisation d'une "étiquette" / "porte clé".
 <div style="display: flex; justify-content: space-around; width: 100%;"> 
-  <img src="ressources/markup_1000019121.png" alt="text disaplyed in ar" width="45%" height="300"/>
-  <img src="ressources/markup_1000019122.png" alt="3d model displayed in ar" width="45%" height="300"/>
+  <img src="ressources/markup_1000019121.png" alt="text disaplyed in ar" width="45%"/>
+  <img src="ressources/markup_1000019122.png" alt="3d model displayed in ar" width="45%"/>
 </div>
 
 # Prérequis
@@ -23,7 +23,7 @@ Ce petit projet comprend aussi la réalisation d'une "étiquette" / "porte clé"
 - un petit cordon métallique avec une attache
 - une petite puce rfid
 
-<div style="display: flex; justify-content: space-around; width: 100%;"> 
+<div style="display: flex; justify-content: center; width: 100%;"> 
   <img src="ressources/PXL_20240912_065600761.jpg" alt="photo of all the elemtns" width="75%" />
 </div>
 
