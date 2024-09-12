@@ -6,10 +6,10 @@ Nous utiliserons A-Frame, un framework web open-source pour créer des expérien
 Notre objectif sera d'afficher le texte "Hello" sur un marqueur AR de type code-barres. Puis de customiser le contenu.
 
 Ce petit projet comprend aussi la réalisation d'une "étiquette" / "porte clé".
-<p style="align:center; width: 100%;"> 
+<div align="center">
   <img src="ressources/markup_1000019121.png" alt="text disaplyed in ar" width="45%"/>
   <img src="ressources/markup_1000019122.png" alt="3d model displayed in ar" width="45%"/>
-</p>
+</div>
 
 # Prérequis
 - Un ordinateur
@@ -23,9 +23,9 @@ Ce petit projet comprend aussi la réalisation d'une "étiquette" / "porte clé"
 - un petit cordon métallique avec une attache
 - une petite puce rfid
 
-<p style="align:center; width: 100%;"> 
-  <img src="ressources/PXL_20240912_065600761.jpg" alt="photo of all the elemtns" width="75%" />
-</p>
+<div align="center"> 
+  <img src="ressources/PXL_20240912_065600761.jpg" alt="photo of all the elemnnts" width="75%" />
+</div>
 
 Pour l'assemblage, rien de plus simple :
 - coller le sticker sur le carré en carton bois sur l'emplacement délimité par la gravure.
