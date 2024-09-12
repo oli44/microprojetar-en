@@ -1,0 +1,1836 @@
+BeamHi, I am meta data O_<ܔؔ<svg id="svgcontent" width="6000" height="3750" viewBox="0 0 6000 3750" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-top="-1741" data-left="-2216" data-zoom="0.235" data-en_af="false" data-en_diode="false" data-rotary_mode="null" data-engrave_dpi="medium">
+ <defs>
+  <symbol data-image-symbol="svg_2_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_2">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_2 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_2 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-stroke-width="14.2321" data-origin-symbol="svg_2" id="svg_2_image" overflow="visible">
+   <image href="blob:file:///1da086fa-4dee-49b9-a534-89d15f0a56ed" filter="url(#filter#F50F2E)" height="549.98828" width="550.00391" y="681.26172" x="3703.42188" id="svg_5"/>
+  </symbol>
+  <symbol data-image-symbol="svg_32_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_32">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_32 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_32 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_32_image" data-origin-symbol="svg_32">
+   <image href="blob:file:///a8a71f97-e806-43ad-bc9a-b510b3acd25c" id="svg_6" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-image-symbol="svg_37_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_37">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_37 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_37 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_37_image" data-origin-symbol="svg_37">
+   <image href="blob:file:///0f6a4726-b8c8-46de-b1e8-6d74fa15d06b" id="svg_7" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-image-symbol="svg_44_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_44">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_44 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_44 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_50_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_50">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_50 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_50 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_55_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_55">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_55 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_55 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_44_image" data-origin-symbol="svg_44">
+   <image href="blob:file:///c15c26af-c459-43a0-9296-a3dcd4eb6d50" id="svg_10" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_50_image" data-origin-symbol="svg_50">
+   <image href="blob:file:///ba0cca53-5ec4-47c1-8cef-8c6df8c2ba30" id="svg_11" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_55_image" data-origin-symbol="svg_55">
+   <image href="blob:file:///8c3c3547-2f54-4a1b-92ce-d115525b872f" id="svg_12" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-image-symbol="svg_63_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_63">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_63 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_63 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_68_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_68">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_68 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_68 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_63_image" data-origin-symbol="svg_63">
+   <image href="blob:file:///6507a6ea-0381-4b99-a17b-cbe53534b3dd" id="svg_13" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_68_image" data-origin-symbol="svg_68">
+   <image href="blob:file:///8843a627-f7a8-4aa5-ace1-ef740129bd52" id="svg_14" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-image-symbol="svg_91_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_91">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_91 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_91 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_96_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_96">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_96 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_96 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_101_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_101">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_101 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_101 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_106_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_106">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_106 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_106 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_111_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_111">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_111 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_111 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_116_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_116">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_116 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_116 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_121_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_121">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_121 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_121 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_126_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_126">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_126 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_126 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_91_image" data-origin-symbol="svg_91">
+   <image href="blob:file:///5c666007-b916-4b44-a402-fdfb3884f6b1" id="svg_15" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_101_image" data-origin-symbol="svg_101">
+   <image href="blob:file:///5d5361b1-9623-4749-be6a-c359cbee010b" id="svg_16" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_96_image" data-origin-symbol="svg_96">
+   <image href="blob:file:///92af4e6a-5547-4eb3-aba4-07c04b0a5043" id="svg_17" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_106_image" data-origin-symbol="svg_106">
+   <image href="blob:file:///8e4902ff-4965-4d4d-8b19-03e3c8f9c68e" id="svg_18" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_111_image" data-origin-symbol="svg_111">
+   <image href="blob:file:///4a8f6e1f-3f7a-4137-9ff9-d79b1145bdc2" id="svg_19" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_121_image" data-origin-symbol="svg_121">
+   <image href="blob:file:///29dcd1b0-70a6-4e88-972a-5421731067eb" id="svg_20" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_116_image" data-origin-symbol="svg_116">
+   <image href="blob:file:///97fc7bc9-e307-4840-a260-39dd270345ea" id="svg_21" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_126_image" data-origin-symbol="svg_126">
+   <image href="blob:file:///444500d6-d377-4b19-aaad-c832c5c25018" id="svg_22" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-image-symbol="svg_133_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_133">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_133 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_133 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_138_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_138">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_138 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_138 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_143_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_143">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_143 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_143 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_148_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_148">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_148 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_148 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_153_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_153">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_153 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_153 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_158_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_158">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_158 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_158 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_163_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_163">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_163 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_163 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_168_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_168">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_168 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_168 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_143_image" data-origin-symbol="svg_143">
+   <image href="blob:file:///2c795ca3-d4ad-4270-bbb2-118c7c04f8d1" id="svg_23" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_138_image" data-origin-symbol="svg_138">
+   <image href="blob:file:///f2ca00d9-78f1-49b0-9cb2-324159ce243b" id="svg_24" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_133_image" data-origin-symbol="svg_133">
+   <image href="blob:file:///8cd4f5c6-bf49-45e2-9bf1-159084ba3bf0" id="svg_25" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_153_image" data-origin-symbol="svg_153">
+   <image href="blob:file:///906e1479-776f-407e-bae7-b87c3bce5669" id="svg_26" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_148_image" data-origin-symbol="svg_148">
+   <image href="blob:file:///9215259c-83ef-4f0d-b11d-8ac3b85633d4" id="svg_27" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_158_image" data-origin-symbol="svg_158">
+   <image href="blob:file:///b95fa9bf-b07a-4275-8e2b-640c37bc59a3" id="svg_28" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_168_image" data-origin-symbol="svg_168">
+   <image href="blob:file:///8a4683c2-c25c-467d-9bdc-ac2a0419e785" id="svg_33" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_163_image" data-origin-symbol="svg_163">
+   <image href="blob:file:///ede12d4a-2068-4665-ab85-22aca4ba930c" id="svg_38" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-image-symbol="svg_175_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_175">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_175 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_175 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_200_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_200">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_200 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_200 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_205_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_205">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_205 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_205 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-image-symbol="svg_210_image" data-bbox="{&quot;x&quot;:3703.42188,&quot;y&quot;:681.26172,&quot;width&quot;:550.00391,&quot;height&quot;:549.98828}" id="svg_210">
+   <defs>
+    <style>*[data-color] ellipse[fill=none],
+        *[data-color] circle[fill=none],
+        *[data-color] rect[fill=none],
+        *[data-color] path[fill=none],
+        *[data-color] polygon[fill=none] {
+            fill-opacity: 0 !important;
+            stroke-width: 1px !important;
+            stroke-opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+        }
+
+        *[data-color] ellipse[stroke=none],
+        *[data-color] circle[stroke=none],
+        *[data-color] rect[stroke=none],
+        *[data-color] path[stroke=none],
+        *[data-color] polygon[stroke=none],
+        *[data-color] ellipse:not([stroke]),
+        *[data-color] circle:not([stroke]),
+        *[data-color] rect:not([stroke]),
+        *[data-color] path:not([stroke]),
+        *[data-color] polygon:not([stroke]) {
+            fill-opacity: 1 !important;
+            stroke-width: 0 !important;
+        }
+
+        *[data-wireframe] {
+            stroke-width: 1px !important;
+            stroke-opacity: 1.0 !important;
+            stroke-dasharray: 0 !important;
+            opacity: 1 !important;
+            vector-effect: non-scaling-stroke !important;
+            filter: none !important;
+        }
+
+        #svg_editor:not(.color) #svg_210 * {
+            fill-opacity: 0;
+            stroke: #000 !important;
+            filter: none;
+            stroke-width: 1px !important;
+            vector-effect: non-scaling-stroke !important;
+            stroke-opacity: 1.0;
+            stroke-dasharray: 0;
+            opacity: 1;
+            filter: none;
+        }
+        #svg_210 {
+            overflow: visible;
+        }</style>
+   </defs>
+   <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" transform="scale(1, 1) " id="svg_1">
+    <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="svg_3">
+     <g style="cursor: move;" data-color="rgb(11.399841%,11.399841%,10.598755%)" id="surface1">
+      <path fill="none" stroke="#F50F2E" stroke-miterlimit="10" d="m4175.04298,1231.25001l-393.23831,0c-43.28517,0 -78.38282,-35.08594 -78.38282,-78.38282l0,-393.22268c0,-43.30079 35.09765,-78.38282 78.38282,-78.38282l393.23831,0c43.28517,0 78.38282,35.08202 78.38282,78.38282l0,393.22268c0,43.29688 -35.09765,78.38282 -78.38282,78.38282zm0,0z" id="svg_4"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_175_image" data-origin-symbol="svg_175">
+   <image href="blob:file:///4e91c640-cda0-40f0-8fd2-08526f0fcfef" id="svg_39" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_200_image" data-origin-symbol="svg_200">
+   <image href="blob:file:///cd39e98a-b139-453a-902b-32f42a48f44d" id="svg_40" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_205_image" data-origin-symbol="svg_205">
+   <image href="blob:file:///be903b10-acc2-41ba-9155-61a0ed728a0d" id="svg_45" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+  <symbol data-stroke-width="14.2321" overflow="visible" id="svg_210_image" data-origin-symbol="svg_210">
+   <image href="blob:file:///d0a54142-592f-48a2-8b4c-130fbff002d0" id="svg_51" x="3703.42188" y="681.26172" width="550.00391" height="549.98828" filter="url(#filter#F50F2E)"/>
+  </symbol>
+ </defs>
+ <g data-configName="0" data-diode="0" data-zstep="0" data-height="-3" data-repeat="1" data-strength="30" data-speed="60" clip-path="url(#scene_mask)" data-color="#0000FF" class="layer">
+  <title>#0000FF</title>
+  <filter color-interpolation-filters="sRGB" primitiveUnits="userSpaceOnUse" filterUnits="objectBoundingBox" id="filter#0000FF">
+   <feColorMatrix values="1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 1, 0 0 0 1 0" type="matrix"/>
+  </filter>
+  <rect x="1794.30968" y="1797.48073" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_172"/>
+  <rect x="1234.97174" y="1799.08785" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_207"/>
+  <rect x="677.091" y="1802.46138" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_202"/>
+  <rect x="121.22166" y="1799.35841" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_197"/>
+  <rect x="4021.5834" y="1236.08488" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_150"/>
+  <rect x="3463.70267" y="1239.45841" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_145"/>
+  <rect x="2908.05991" y="1237.21012" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_140"/>
+  <rect x="2350.17917" y="1240.58366" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_135"/>
+  <rect x="1794.30983" y="1237.48069" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_130"/>
+  <rect x="1234.97189" y="1239.08781" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_165"/>
+  <rect x="677.09116" y="1242.46134" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_160"/>
+  <rect x="121.22182" y="1239.35838" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_155"/>
+  <rect x="4021.58319" y="676.08488" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_108"/>
+  <rect x="3463.70245" y="679.45841" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_103"/>
+  <rect x="2908.05969" y="677.21012" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_98"/>
+  <rect x="2350.17896" y="680.58366" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_93"/>
+  <rect x="1794.30962" y="677.48069" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_88"/>
+  <rect x="1234.97168" y="679.08781" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_123"/>
+  <rect x="677.09094" y="682.46134" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_118"/>
+  <rect x="121.2216" y="679.35838" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_113"/>
+  <rect x="119.99998" y="119.99217" width="350" height="350" stroke="#0000FF" id="svg_9" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke"/>
+  <rect x="675.86932" y="123.09513" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_29"/>
+  <rect x="1233.75006" y="119.7216" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_34"/>
+  <rect x="1793.088" y="118.11448" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_41"/>
+  <rect x="2348.95734" y="121.21745" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_46"/>
+  <rect x="2906.83807" y="117.84391" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_52"/>
+  <rect x="3462.48083" y="120.0922" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_60"/>
+  <rect x="4020.36157" y="116.71867" width="350" height="350" stroke="#0000FF" fill="none" fill-opacity="0" data-original-layer="#0000FF" vector-effect="non-scaling-stroke" id="svg_65"/>
+ </g>
+ <g data-configName="0" data-diode="0" data-zstep="0" data-height="-3" data-repeat="1" data-strength="40" data-speed="7" clip-path="url(#scene_mask)" data-color="#F50F2E" class="layer">
+  <title>#1D1D1B</title>
+  <filter color-interpolation-filters="sRGB" primitiveUnits="userSpaceOnUse" filterUnits="objectBoundingBox" id="filter#F50F2E">
+   <feColorMatrix values="1 0 0 0 0.9607843137254902, 0 1 0 0 0.058823529411764705, 0 0 1 0 0.1803921568627451, 0 0 0 1 0" type="matrix"/>
+  </filter>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-1983.44165" y="1045.88569" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_175_image" id="svg_173"/>
+  <ellipse cx="1759.81517" cy="1755.16911" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_174"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-2542.78356" y="1047.49282" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_210_image" id="svg_208"/>
+  <ellipse cx="1200.47724" cy="1756.77623" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_209"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-3100.66826" y="1050.86638" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_205_image" id="svg_203"/>
+  <ellipse cx="642.5965" cy="1760.14976" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_204"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-3656.54154" y="1047.76339" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_200_image" id="svg_198"/>
+  <ellipse cx="86.72716" cy="1757.0468" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_199"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="243.84788" y="484.48586" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_153_image" id="svg_151"/>
+  <ellipse cx="3987.0889" cy="1193.77326" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_152"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-314.03682" y="487.85942" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_148_image" id="svg_146"/>
+  <ellipse cx="3429.20816" cy="1197.14679" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_147"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-869.68352" y="485.61111" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_143_image" id="svg_141"/>
+  <ellipse cx="2873.5654" cy="1194.8985" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_142"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-1427.56822" y="488.98467" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_138_image" id="svg_136"/>
+  <ellipse cx="2315.68467" cy="1198.27204" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_137"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-1983.4415" y="485.88168" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_133_image" id="svg_131"/>
+  <ellipse cx="1759.81533" cy="1195.16907" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_132"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-2542.78341" y="487.48881" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_168_image" id="svg_166"/>
+  <ellipse cx="1200.47739" cy="1196.77619" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_167"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-3100.6681" y="490.86237" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_163_image" id="svg_161"/>
+  <ellipse cx="642.59665" cy="1200.14972" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_162"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-3656.54139" y="487.75938" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_158_image" id="svg_156"/>
+  <ellipse cx="86.72731" cy="1197.04676" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_157"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="243.84766" y="-75.51811" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_111_image" id="svg_109"/>
+  <ellipse cx="3987.08869" cy="633.77326" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_110"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-314.03703" y="-72.14456" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_106_image" id="svg_104"/>
+  <ellipse cx="3429.20795" cy="637.14679" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_105"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-869.68374" y="-74.39286" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_101_image" id="svg_99"/>
+  <ellipse cx="2873.56519" cy="634.8985" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_100"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-1427.56843" y="-71.0193" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_96_image" id="svg_94"/>
+  <ellipse cx="2315.68445" cy="638.27204" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_95"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-1983.44171" y="-74.12229" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_91_image" id="svg_89"/>
+  <ellipse cx="1759.81511" cy="635.16907" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_90"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-2542.78362" y="-72.51516" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_126_image" id="svg_124"/>
+  <ellipse cx="1200.47718" cy="636.77619" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_125"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-3100.66832" y="-69.1416" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_121_image" id="svg_119"/>
+  <ellipse cx="642.59644" cy="640.14972" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_120"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-3656.5416" y="-72.24459" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_116_image" id="svg_114"/>
+  <ellipse cx="86.7271" cy="637.04676" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_115"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " id="svg_48" x="-3657.76323" y="-631.61477" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_2_image"/>
+  <ellipse cx="85.50548" cy="77.68055" rx="32.5" ry="32.5" id="svg_8" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-3101.88994" y="-628.51178" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_32_image" id="svg_30"/>
+  <ellipse cx="641.37482" cy="80.78351" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_31"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-2544.00525" y="-631.88534" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_37_image" id="svg_35"/>
+  <ellipse cx="1199.25556" cy="77.40998" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_36"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-1984.66334" y="-633.49247" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_44_image" id="svg_42"/>
+  <ellipse cx="1758.59349" cy="75.80286" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_43"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-1428.79006" y="-630.38948" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_50_image" id="svg_47"/>
+  <ellipse cx="2314.46283" cy="78.90583" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_49"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-870.90536" y="-633.76304" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_55_image" id="svg_53"/>
+  <ellipse cx="2872.34357" cy="75.53229" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_54"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="-315.25866" y="-631.51474" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_63_image" id="svg_61"/>
+  <ellipse cx="3427.98633" cy="77.78058" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_62"/>
+  <use data-wireframe="false" transform="matrix(0.9999929041294845,0,0,0.9999929041294845,-25.658348858369436,-29.646611007982138) " x="242.62604" y="-634.8883" data-original-layer="#1D1D1B" data-xform="x=3703.421875 y=681.26171875 width=550.00390625 height=549.98828125 " data-ratiofixed="true" xlink:href="#svg_68_image" id="svg_66"/>
+  <ellipse cx="3985.86707" cy="74.40705" rx="32.5" ry="32.5" stroke="#F50F2E" fill-opacity="0" fill="none" vector-effect="non-scaling-stroke" data-original-layer="#1D1D1B" id="svg_67"/>
+ </g>
+</svg>  
