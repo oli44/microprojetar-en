@@ -6,9 +6,9 @@ Nous utiliserons A-Frame, un framework web open-source pour créer des expérien
 Notre objectif sera d'afficher le texte "Hello" sur un marqueur AR de type code-barres. Puis de customiser le contenu.
 
 Ce petit projet comprend aussi la réalisation d'une "étiquette" / "porte clé".
-<div display="flex" justify-content="space-around" width="100%">
-  <img src="ressources/markup_1000019121.png" alt="text disaplyed in ar" width="45%"/>
-  <img src="ressources/markup_1000019122.png" alt="3d model displayed in ar" width="45%"/>
+<div align="center">
+  <img src="ressources/markup_1000019121.png" alt="text disaplyed in ar" width="45%" height="400"/>
+  <img src="ressources/markup_1000019122.png" alt="3d model displayed in ar" width="45%" height="400"/>
 </div>
 
 # Prérequis
@@ -43,18 +43,18 @@ Si vous voulez plus d'infos sur cette partie là
 
 **☢️ Le nom d'utilisateur que vous choisissez sera utilisé pour l'adresse qu'il faudra tapper pour voir votre projet. <u>Choisissez un nom court ! sans espaces, sans caractères spéciaux (accents etc.)</u>**
 
-<div style="display: flex; justify-content: space-around; width: 100%;"> 
-  <img src="ressources/Capture_signup_github.png" alt="signup github page" width="49%" />
-  <img src="ressources/Capture_login_github.png" alt="login github page" width="49%" />
+<div align="center"> 
+  <img src="ressources/Capture_signup_github.png" alt="signup github page" width="49%" height="400"/>
+  <img src="ressources/Capture_login_github.png" alt="login github page" width="49%" height="400"/>
 </div>
 
 - Créer un nouveau dépôt : Une fois connecté, cliquez sur le bouton "New repository". Donnez un nom à votre dépôt (par exemple, "microProjetAr"), ajoutez une description facultative, et cliquez sur "Create repository".
 
-<div style="display: flex; justify-content: space-around; width: 100%;"> 
+<div align="center"> 
 <img src="ressources/Capture_github_newRepo.png" alt="menu to create new repo" width="75%" />
 </div>
 </br>
-<div style="display: flex; justify-content: space-around; width: 100%;">
+<div align="center"> 
 <img src="ressources/Capture_github_newRepoCreation.png" alt="menu to create new repo" width="75%" />
 </div>
 
@@ -66,24 +66,24 @@ Nous allons maintenant configurer GitHub Pages, pour permettre à notre projet d
 
 - Accéder aux paramètres : Dans votre dépôt, cliquez sur l'onglet "Settings", puis sur l'onglet "Pages"
 
-<div style="display: flex; justify-content: space-around; width: 100%;"> 
+<div align="center"> 
 <img src="ressources/Capture_github_settings.png" alt="menu to access gh-pages settings" width="75%" />
 </div>
 </br>
-<div style="display: flex; justify-content: space-around; width: 100%;"> 
+<div align="center"> 
 <img src="ressources/Capture_github_settings_pages.png" alt="Pages menu to access gh-pages settings" width="75%" />
 </div>
 
 - Sélectionner la branche : Dans la section "GitHub Pages", sélectionnez la branche main (ou la branche principale de votre dépôt).
 - Enregistrer les modifications : Cliquez sur le bouton "Save". Votre site GitHub Pages sera maintenant accessible à l'adresse https://[votre-nom-utilisateur].github.io/[microprojetAr].
 
-<div style="display: flex; justify-content: space-around; width: 100%;"> 
+<div align="center"> 
 <img src="ressources/Capture_github_settings_pages_activate.png" alt="choose branch and save" width="75%" />
 </div>
 
 Si vous revenez sur la page d'accueil de votre projet, vous remarquerez au bout de quelques minutes, que certains éléments ont changé. Un déploiement est maintenant disponible !
 
-<div style="display: flex; justify-content: space-around; width: 100%;"> 
+<div align="center"> 
 <img src="ressources/Capture_github_settings_pages_done.png" alt="choose branch and save" width="75%" />
 </div>
 
