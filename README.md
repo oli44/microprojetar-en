@@ -6,7 +6,7 @@ Nous utiliserons A-Frame, un framework web open-source pour créer des expérien
 Notre objectif sera d'afficher le texte "Hello" sur un marqueur AR de type code-barres. Puis de customiser le contenu.
 
 Ce petit projet comprend aussi la réalisation d'une "étiquette" / "porte clé".
-<div align="center">
+<div display="flex" justify-content="space-around" width="100%">
   <img src="ressources/markup_1000019121.png" alt="text disaplyed in ar" width="45%"/>
   <img src="ressources/markup_1000019122.png" alt="3d model displayed in ar" width="45%"/>
 </div>
