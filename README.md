@@ -17,6 +17,10 @@ Ce petit projet comprend aussi la réalisation d'une "étiquette" / "porte clé"
 - Un navigateur web (Chrome, Firefox ...)
 - Un smartphone avec un navigateur web (Chrome, Firefox ...)
 
+- avoir un compte Github
+- avoir un compte Gmail
+
+
 # Matériel à votre disposition
 - un petit carré de carton bois au bords arrondis
 - un sticker découpé sur vynile mat
@@ -303,6 +307,12 @@ Pointer la caméra sur le marker code-barres
 **Félicitations !**  Vous avez créé votre première application AR. Vous pouvez maintenant personnaliser votre application en modifiant le texte, en ajoutant des modèles 3D, et en expérimentant avec différentes fonctionnalités d'A-Frame et AR.js.
 
 Note : Ce tutoriel est une introduction de base. Pour approfondir vos connaissances, consultez la documentation officielle d'A-Frame et AR.js.
+
+ #  Étape 8 : Encoder le sticker RFID
+
+Utiliser NFCTools
+
+-> Ecrire -> Ajouter un enregistrement -> URL -> copier l'adresse de votre expérience -> valider -> Ecrire -> approcher le téléphone du badge
 
 # Pour aller plus loin ...
 
