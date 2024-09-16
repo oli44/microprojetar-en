@@ -96,11 +96,19 @@ Toute l'infrastructure nécessaire pour héberger votre projet est donc bien en 
 
 # Étape 3 : Utiliser Project IDX
 
-Ouvrir Project IDX et créez un nouveau projet.
+Rendez-vous sur le site de [projetIDX](https://idx.dev/) et connectez-vous.
 
 Importer le dépôt : Utilisez l'option pour importer votre dépôt GitHub dans Project IDX.
 
-Choisir un environnement : Sélectionnez un environnement de développement adapté (par exemple, Node.js).
+<div align="center"> 
+<img src="ressources/Capture_projetIDX_importRepo.png" alt="choose branch and save" width="75%" />
+</div>
+
+Copiez l'adresse du dépot créé précédement.
+<div align="center"> 
+<img src="ressources/Capture_projetIDX_importRepo2.png" alt="choose branch and save" width="75%" />
+</div>
+
 
 # Étape 4 : Créer la page HTML
 
@@ -238,7 +246,7 @@ Dans la partie ```<body>```, et c'est ici que tout ce joue pour le contenu visib
 
         <!-- contenu de l'expérience AR avec d'autres balises -->
 
-        </a-scene>
+  </a-scene>
   ```
   Remarquez qu'avant le chevron fermant '>' de la balise ```<a-scene>``` nous ajoutons beaucoup d'options (qui s'appellent attributs en html)  pour configuer la manière dont la scène va s'afficher.
 
@@ -273,6 +281,7 @@ Dans la partie ```<body>```, et c'est ici que tout ce joue pour le contenu visib
             color="red" align="center" >
   </a-text>
   ```
+    <details > <summary> <b>&#128161 les détails des attributs de la balise a-text</b> </summary>
   - *value* : Le texte à afficher.
   - *side=double* : permet d'afficher le texte quelque soit l'angle sous lequel on le regarde.
   - *position="0 0 -1" : la position xyz du centre du texte par rapport au centre du marqueur.
@@ -280,16 +289,14 @@ Dans la partie ```<body>```, et c'est ici que tout ce joue pour le contenu visib
   - *width="8"* : la largeur du texte.
   - *color="red"* : la couleur du texte.
   - *align="center"* : l'alignement du texte.
+  </details>
+  </br>
 
-- Caméra : L'élément <a-entity camera> définit la caméra de la scène.
+- Caméra : L'élément ```<a-entity camera>``` définit la caméra de la scène, le fonctionnement par défaut nous convient parfaitement, mais il est possible d'ajouter des fonctionalités comme par exemple l'interaction via l'orientation du regard ('gaze' interaction).
 
-En résumé, ce code crée une expérience de RA où un texte en 3D apparaît lorsqu'un marqueur de code-barres spécifique est détecté par la caméra.
 
-A-Frame : Le tag <a-scene> définit la scène 3D. L'attribut arjs indique que la scène est une scène AR.
+En résumé, ce code crée une expérience de RA où un texte apparaît dans un esapce 3D lorsque le marqueur de code-barres 2 est détecté par la caméra.
 
-AR.js : Le tag <a-marker> définit un marqueur AR. L'attribut preset="barcode" indique que le marqueur est un code-barres. L'attribut value spécifie l'image du code-barres.
-
-A-text : Le tag <a-text> affiche du texte dans la scène 3D.
 
 
 # Étape 6 : Enregistrer les modifications et les commiter sur GitHub
