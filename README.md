@@ -341,7 +341,7 @@ En résumé, ce code crée une expérience de RA où un texte apparaît dans un 
   Si vous utilisez chrome, vous pouvez aussi créer un QR code que vous pourrez scanner avec votre appareil photo pour accéder à la page de test.
 
   <div align="center"> 
-  <img src="ressources/Capture_qr.png" alt="command palette" width="75%" />
+  <img src="ressources/Capture_qr.png" alt="create qrcode with chrome" width="75%" />
   </div>
 
   
@@ -355,7 +355,31 @@ Essayer par exemple de changer le texte, sa couleur, sa taille, sa position etc.
 
 Commiter les modifications : Utilisez les outils de versioning de Project IDX pour commiter vos changements et les pousser sur votre dépôt GitHub.
 
-**Félicitations !**  Vous avez créé votre première application AR. Vous pouvez maintenant personnaliser votre application en modifiant le texte, en ajoutant des modèles 3D, et en expérimentant avec différentes fonctionnalités d'A-Frame et AR.js.
+- Cliquer sur le bouton source control de projetIDX
+  <div align="center"> 
+  <img src="ressources/Capture_git_icon.png" alt="" width="10%" />
+  </div>
+
+- 'Stager' les changements en cliquant sur le "+"
+  <div align="center"> 
+  <img src="ressources/Capture_git_stage.png" alt="" width="75%"/>
+  </div>
+
+- 'Commiter' les changements en cliquant sur le bouton 'commit'
+  <div align="center"> 
+  <img src="ressources/Capture_git_commit.png" alt=" " width="75%"/>
+  </div>
+
+- Synchroniser les changements en cliquant sur le bouton 'commit'
+  <div align="center"> 
+  <img src="ressources/Capture_git_sync.png" alt=" " width="75%"/>
+  </div>
+
+Cette dernière opération va envoyer vos changements à votre dépot github et du coup mettre à jour la page mise en ligne.
+
+Votre expérience est maintenant déployée à l'adresse : https://[votre-nom-utilisateur].github.io/[votre-depot]
+
+**✨	 Félicitations ! ✨**  Vous avez créé votre première application AR. Vous pouvez maintenant personnaliser votre application en modifiant le texte, en ajoutant des modèles 3D, et en expérimentant avec différentes fonctionnalités d'A-Frame et AR.js.
 
 Note : Ce tutoriel est une introduction de base. Pour approfondir vos connaissances, consultez la documentation officielle d'A-Frame et AR.js.
 
