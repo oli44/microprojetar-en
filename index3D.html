@@ -20,13 +20,13 @@
         smooth=" true" smoothCount="5" smoothTolerance=".05" smoothThreshold="5" sourceWidth="800" sourceHeight="600"
         displayWidth="1280" displayHeight="720">
 
+        <a-assets>
+            <a-asset-item id="glbTest" src="./assets/plant_modelling.glb"></a-asset-item>
+          </a-assets>
 
 
         <a-marker type='barcode' value='2'>
-            <a-text value="Hello !" 
-            side="double" position = "0 0 -1" rotation="270 0 0" 
-            width="8"
-            color="red" align="center" ></a-text>
+            <a-entity scale=".2 .2 .2" gltf-model="#glbTest"></a-entity>
         </a-marker>
 
         <a-entity camera></a-entity>

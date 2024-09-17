@@ -82,13 +82,13 @@ Nous allons maintenant configurer GitHub Pages, pour permettre à notre projet d
 - Enregistrer les modifications : Cliquez sur le bouton "Save". Votre site GitHub Pages sera maintenant accessible à l'adresse https://[votre-nom-utilisateur].github.io/[microprojetAr].
 
 <div align="center"> 
-<img src="ressources/Capture_github_settings_pages_activate.png" alt="choose branch and save" width="75%" />
+<img src="ressources/Capture_github_settings_pages_activate.png" alt="activate gh-pages" width="75%" />
 </div>
 
 Si vous revenez sur la page d'accueil de votre projet, vous remarquerez au bout de quelques minutes, que certains éléments ont changé. Un déploiement est maintenant disponible !
 
 <div align="center"> 
-<img src="ressources/Capture_github_settings_pages_done.png" alt="choose branch and save" width="75%" />
+<img src="ressources/Capture_github_settings_pages_done.png" alt="gh-pages settings done" width="75%" />
 </div>
 
 Toute l'infrastructure nécessaire pour héberger votre projet est donc bien en place, il suffit maintenant d'ajouter du contenu.
@@ -101,18 +101,23 @@ Rendez-vous sur le site de [projetIDX](https://idx.dev/) et connectez-vous.
 Importer le dépôt : Utilisez l'option pour importer votre dépôt GitHub dans Project IDX.
 
 <div align="center"> 
-<img src="ressources/Capture_projetIDX_importRepo.png" alt="choose branch and save" width="75%" />
+<img src="ressources/Capture_projetIDX_importRepo.png" alt="import repo in projetIDX" width="75%" />
 </div>
 
 Copiez l'adresse du dépot créé précédement.
 <div align="center"> 
-<img src="ressources/Capture_projetIDX_importRepo2.png" alt="choose branch and save" width="75%" />
+<img src="ressources/Capture_projetIDX_importRepo2.png" alt="import repo in projetIDX" width="75%" />
 </div>
 
 
 # Étape 4 : Créer la page HTML
 
-Créer un fichier index.html : Dans votre projet IDX, créez un fichier nommé index.html.
+Créer un fichier index.html : Dans votre projet IDX, créez un fichier nommé **"index.html."**
+
+<div align="center"> 
+<img src="ressources/Capture_projetIDX_newFile.png" alt="create a new file in project IDX" width="75%" />
+</div>
+
 
 Ajouter le code HTML : Copiez et collez le code HTML suivant dans votre fichier index.html :
 
@@ -295,21 +300,60 @@ Dans la partie ```<body>```, et c'est ici que tout ce joue pour le contenu visib
 - Caméra : L'élément ```<a-entity camera>``` définit la caméra de la scène, le fonctionnement par défaut nous convient parfaitement, mais il est possible d'ajouter des fonctionalités comme par exemple l'interaction via l'orientation du regard ('gaze' interaction).
 
 
-En résumé, ce code crée une expérience de RA où un texte apparaît dans un esapce 3D lorsque le marqueur de code-barres 2 est détecté par la caméra.
+En résumé, ce code crée une expérience de RA où un texte apparaît dans un esapce 3D lorsque le marqueur code-barres 2 est détecté par la caméra.
 
 
 
-# Étape 6 : Enregistrer les modifications et les commiter sur GitHub
-Enregistrer les modifications : Enregistrez votre fichier index.html.
+# Étape 6 : Tester
+
+- Enregistrer les modifications : Enregistrez votre fichier index.html.
+
+- Tester votre projet : Affichez la webview de votre projet.
+
+  <div align="center"> 
+  <img src="ressources/Capture_projetIDX_webview.png" alt="check the webview tab !" width="75%" />
+  </div>
+
+  **☣️** Il peut arriver que la webview disparaisse ... Dans ce cas là vous pouvez faire apparaitre la "palette de commande" en (Cmd+Maj+P sur Mac ou Ctrl+Maj+P pour les autres systèmes), puis sélectionnez ou tappez "Show Web Preview" (Afficher l'aperçu sur le Web).
+
+  <div align="center"> 
+  <img src="ressources/Capture_projetIDX_webview_commandPalette.png" alt="command palette" width="75%" />
+  </div>
+
+  Vous pouvez alors visionner votre page en plein écran en cliquant sur le petit icône en haut à droite.
+
+  <div align="center"> 
+  <img src="ressources/Capture_projetIDX_webview_ouvrir.png" alt="command palette" width="75%" />
+  </div>
+
+  Cela ouvrira votre expérience dans un nouvel onglet sur votre ordinateur. A ce stade vous devriez voir : une page web vous montrant vous !
+
+  Si vous montrez le marqueur à la caméra vous devriez voir ceci :
+
+  <div align="center"> 
+  <img src="ressources/Capture_final_product_v1.png" alt="command palette" width="75%" />
+  </div>
+
+  Votre projet fonctionne donc dans l'éditeur et avec la caméra de votre ordinateur.
+
+  Vous pouvez maintenant le tester sur votre smartphone. Il vous suffit de vous rendre sur la page que vous venez d'ouvrir.
+
+  Si vous utilisez chrome, vous pouvez aussi créer un QR code que vous pourrez scanner avec votre appareil photo pour accéder à la page de test.
+
+  <div align="center"> 
+  <img src="ressources/Capture_qr.png" alt="command palette" width="75%" />
+  </div>
+
+  
+Vous pouvez ensuite répéter ces opérations en changeant le code, sauvegardant et en actualisant la page. 
+
+Essayer par exemple de changer le texte, sa couleur, sa taille, sa position etc.
+
+
+
+# Étape 7 : Publier l'application
 
 Commiter les modifications : Utilisez les outils de versioning de Project IDX pour commiter vos changements et les pousser sur votre dépôt GitHub.
-
-# Étape 7 : Tester l'application
-Accéder à l'URL de votre GitHub Pages : Ouvrez l'URL de votre site GitHub Pages dans votre navigateur.
-
-Ouvrir la caméra : Autorisez l'accès à votre caméra lorsque vous y êtes invité.
-
-Pointer la caméra sur le marker code-barres 
 
 **Félicitations !**  Vous avez créé votre première application AR. Vous pouvez maintenant personnaliser votre application en modifiant le texte, en ajoutant des modèles 3D, et en expérimentant avec différentes fonctionnalités d'A-Frame et AR.js.
 
