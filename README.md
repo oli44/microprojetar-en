@@ -1,6 +1,8 @@
 # Introduction
 Dans ce tutoriel, nous allons vous guider pas à pas dans la création d'une application web en réalité augmentée (AR) simple. 
 
+L'objectif est de voire ensemble toute la chaine technique qui permet à un projet d'exister en tant que page web. Nous verrons aussi comment écrire des informations sur des puces RFID.
+
 Nous utiliserons A-Frame, un framework web open-source pour créer des expériences VR/AR, et AR.js, une bibliothèque JavaScript qui permet d'intégrer des fonctionnalités AR dans les applications web. 
 
 Notre objectif sera d'afficher le texte "Hello" sur un marqueur AR de type code-barres. Puis de customiser le contenu.
@@ -10,6 +12,11 @@ Ce petit projet comprend aussi la réalisation d'une "étiquette" / "porte clé"
   <img src="ressources/markup_1000019121.png" alt="text disaplyed in ar" width="45%" height="400"/>
   <img src="ressources/markup_1000019122.png" alt="3d model displayed in ar" width="45%" height="400"/>
 </div>
+
+Nous allons utiliser différents outils gratuits :
+- github : pour versionner votre code et hébérger gratuitement votre projet.
+- projectIDX : qui est un IDE (integrated development environment) qui permet d'écrire du code et qui se connecte à github pour hierarchiser les changements dans notre code.
+- nfctools : qui est une application pour android ou iOS et qui nous permettra d'écrire de l'information sur notre sticker RFID.
 
 # Prérequis
 - Un ordinateur
@@ -220,20 +227,19 @@ Ici nous avons une structure HTML classique : Le code met en place une page HTML
 Dans la partie ```<head>```, nous ajoutons : 
 
 - le titre de l'expérience
-
-```html
-<title>Ma première app AR</title>
-```
+  ```html
+  <title>Ma première app AR</title>
+  ```
 
 - la *Bibliothèque A-Frame* : Il inclut la bibliothèque A-Frame (aframe.min.js) qui est un framework JavaScript permettant de créer des expériences de réalité virtuelle (RV) et de RA en utilisant du HTML.
-```html
-<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
-``` 
+  ```html
+  <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+  ``` 
 
 - la *Bibliothèque AR.js* : Il inclut la bibliothèque AR.js (aframe-ar.js) qui ajoute des capacités de RA à A-Frame.
-```html
+  ```html
   <script src="https://raw.githubusercontent.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.js"></script>  
-```
+  ```
 
 Dans la partie ```<body>```, et c'est ici que tout ce joue pour le contenu visible par l'utilisateur. Nous ajoutons : 
 
@@ -377,7 +383,7 @@ Commiter les modifications : Utilisez les outils de versioning de Project IDX po
 
 Cette dernière opération va envoyer vos changements à votre dépot github et du coup mettre à jour la page mise en ligne.
 
-Votre expérience est maintenant déployée à l'adresse : https://[votre-nom-utilisateur].github.io/[votre-depot]
+**Votre expérience est maintenant déployée à l'adresse :** *https://[votre-nom-utilisateur].github.io/[votre-depot]*
 
 **✨	 Félicitations ! ✨**  Vous avez créé votre première application AR. Vous pouvez maintenant personnaliser votre application en modifiant le texte, en ajoutant des modèles 3D, et en expérimentant avec différentes fonctionnalités d'A-Frame et AR.js.
 
@@ -385,9 +391,39 @@ Note : Ce tutoriel est une introduction de base. Pour approfondir vos connaissan
 
  #  Étape 8 : Encoder le sticker RFID
 
-Utiliser NFCTools
+Notre but est de programmer notre sticker RFID pour que lorsque nous approchons notre téléphone, celui-ci va nous proposer d'ouvrir la page web hébergeant notre projet.
 
--> Ecrire -> Ajouter un enregistrement -> URL -> copier l'adresse de votre expérience -> valider -> Ecrire -> approcher le téléphone du badge
+Pour cela nous allons utiliser NFCTools qui est gratuit et qui est disponible pour [Android](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&hl=fr) ou [iOS](https://apps.apple.com/fr/app/nfc-tools/id1252962749)?.
+
+- Choisir l'onglet "Ecrire" et sélectionner "ajouter un enregistrement"
+  <div align="center"> 
+  <img src="ressources/NFCTools_ecrire.png" alt=" " width="75%"/>
+  </div>
+- Choisir "URL/URI"
+  <div align="center"> 
+  <img src="ressources/NFCTools_ajout.png" alt=" " width="75%"/>
+  </div>
+- Entrer l'adresse de votre page puis valider
+  <div align="center"> 
+  <img src="ressources/NFCTools_url.png" alt=" " width="75%"/>
+  </div>
+- Vous pouvez maintenant cliquer sur le bouton "Ecrire" sous le champ "Plus d'options"
+  <div align="center"> 
+  <img src="ressources/NFCTools_enregistrer.png" alt=" " width="75%"/>
+  </div>
+- Vous devrier voir cet écran vous demandant d'approcher votre smartphone du sticker.
+  <div align="center"> 
+  <img src="ressources/NFCTools_approcher.png" alt=" " width="75%"/>
+  </div>
+- Une fois que vous avez réussi à détecter votre sticker, l'écriture devrait s'effectuer
+  <div align="center"> 
+  <img src="ressources/NFCTools_valider.png" alt=" " width="75%"/>
+  </div>
+
+Normalement c'est bon !
+Vous pouvez fermer NFCTools et tester !
+
+
 
 # Pour aller plus loin ...
 
