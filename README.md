@@ -1,14 +1,7 @@
 # Introduction
 Dans ce tutoriel, nous allons vous guider pas à pas dans la création d'une application web en réalité augmentée (AR) simple. 
 
-
 https://github.com/user-attachments/assets/f4b1f979-b22c-443c-ae03-740b0111a7f0
-
-
-
-https://github.com/user-attachments/assets/f4b1f979-b22c-443c-ae03-740b0111a7f0
-
-
 
 L'objectif est de voir ensemble toute la chaine technique qui permet à un projet d'exister en tant que page web. Nous verrons aussi comment écrire des informations sur des puces RFID.
 
