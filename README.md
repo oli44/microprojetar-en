@@ -384,7 +384,6 @@ En résumé, ce code crée une expérience de RA où un texte apparaît dans un 
 
 
 # Étape 6 : Tester
-- Configurer
 
 - Enregistrer les modifications : Enregistrez votre fichier index.html.
 
@@ -419,10 +418,10 @@ En résumé, ce code crée une expérience de RA où un texte apparaît dans un 
 
   Vous pouvez maintenant le tester sur votre smartphone. Il vous suffit de vous rendre sur la page que vous venez d'ouvrir.
 
-  Si vous utilisez chrome, vous pouvez aussi créer un QR code que vous pourrez scanner avec votre appareil photo pour accéder à la page de test.
+  Pour cela vous pouvez cliquer sur l'icône "lien" en haut à droite à côté de l'icône pour ouvrir dans une nouvelle fenêtre. Scannez le qr code et vous voilà avec la page chargée sur votre téléphone.
 
   <div align="center"> 
-  <img src="ressources/Capture_qr.png" alt="create qrcode with chrome" width="75%" />
+  <img src="ressources/Capture_projetIDX_qr1.png" alt="command palette" width="75%" />
   </div>
 
   
