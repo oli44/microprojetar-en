@@ -1,6 +1,10 @@
 # Introduction
 Dans ce tutoriel, nous allons vous guider pas à pas dans la création d'une application web en réalité augmentée (AR) simple. 
 
+<div align="center">
+<video src='ressources/PXL_20240918_150111160_2.mp4' width="80%"/>
+</div>
+
 L'objectif est de voire ensemble toute la chaine technique qui permet à un projet d'exister en tant que page web. Nous verrons aussi comment écrire des informations sur des puces RFID.
 
 Nous utiliserons A-Frame, un framework web open-source pour créer des expériences VR/AR, et AR.js, une bibliothèque JavaScript qui permet d'intégrer des fonctionnalités AR dans les applications web. 
@@ -115,6 +119,77 @@ Copiez l'adresse du dépot créé précédement.
 <div align="center"> 
 <img src="ressources/Capture_projetIDX_importRepo2.png" alt="import repo in projetIDX" width="75%" />
 </div>
+
+Configurer le projet pour un usage de developpement web.
+
+- Créer un dossier ".idx":
+  <div align="center"> 
+  <img src="ressources/ProjetIDX_newFolder.png" alt="create a new file in project IDX" width="75%" />
+  </div>
+
+- Dans ce dossier, créer un fichier nommé "dev.nix"
+  <div align="center"> 
+  <img src="ressources/ProjetIDX_newFile.png" alt="create a new file in project IDX" width="75%" />
+  </div>
+  Pour arriver à ce résultat :
+   <div align="center"> 
+  <img src="ressources/ProjetIDX_comf.png" alt="create a new file in project IDX" width="75%" />
+  </div>
+
+- Copier le code de configuration de l'environnement de developpement dans le fichier "dev.nix" que vous venez de créer. (Ce fichier va nous permettre de tester notre code directement dans projetIDX et aussi de tester sur notre téléphone).
+  ```
+    # To learn more about how to use Nix to configure your environment
+  # see: https://developers.google.com/idx/guides/customize-idx-env
+  { pkgs, ... }: {
+    # Which nixpkgs channel to use.
+    channel = "stable-23.11"; # or "unstable"
+    # Use https://search.nixos.org/packages to find packages
+    packages = [
+      pkgs.nodejs_20
+      pkgs.python3
+    ];
+    # Sets environment variables in the workspace
+    env = {};
+    idx = {
+      # Search for the extensions you want on https://open-vsx.org/ and use   "publisher.id"
+      extensions = [
+        # "vscodevim.vim"
+      ];
+      # Enable previews and customize configuration
+      previews = {
+        enable = true;
+        previews = {
+          web = {
+            command = ["python3" "-m" "http.server" "$PORT" "--bind" "0.0.0.0"];
+            manager = "web";
+          };
+        };
+      };
+      # Workspace lifecycle hooks
+      workspace = {
+        # Runs when a workspace is first created
+        onCreate = {
+          # Example: install JS dependencies from NPM
+          # npm-install = "npm install";
+          # Open editors for the following files by default, if they exist:
+          default.openFiles = [ "style.css" "main.js" "index.html" ];
+        };
+        # Runs when the workspace is (re)started
+        onStart = {
+          # Example: start a background task to watch and re-build backend code
+          # watch-backend = "npm run watch-backend";
+        };
+      };
+    };
+  }
+  ```
+Votre environnement de travail devrait ressembler à ceci :
+   
+  <div align="center"> 
+  <img src="ressources/projetIDX_final_conf.png" alt="create a new file in project IDX" width="100%" />
+  </div>
+
+Il ne vous reste plus qu'à cliquer sur le bouton "Rebuild Environment" et c'est bon !
 
 
 # Étape 4 : Créer la page HTML
@@ -311,6 +386,7 @@ En résumé, ce code crée une expérience de RA où un texte apparaît dans un 
 
 
 # Étape 6 : Tester
+- Configurer
 
 - Enregistrer les modifications : Enregistrez votre fichier index.html.
 
@@ -321,6 +397,7 @@ En résumé, ce code crée une expérience de RA où un texte apparaît dans un 
   </div>
 
   **☣️** Il peut arriver que la webview disparaisse ... Dans ce cas là vous pouvez faire apparaitre la "palette de commande" en (Cmd+Maj+P sur Mac ou Ctrl+Maj+P pour les autres systèmes), puis sélectionnez ou tappez "Show Web Preview" (Afficher l'aperçu sur le Web).
+
 
   <div align="center"> 
   <img src="ressources/Capture_projetIDX_webview_commandPalette.png" alt="command palette" width="75%" />
