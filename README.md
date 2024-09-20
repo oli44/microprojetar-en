@@ -21,13 +21,15 @@ Nous allons utiliser différents outils gratuits :
 - nfctools : qui est une application pour android ou iOS et qui nous permettra d'écrire de l'information sur notre sticker RFID.
 
 # Prérequis
+
+- avoir un compte Github
+- avoir un compte Gmail
+
 - Un ordinateur
 - Un éditeur de code notre outil sera : [projectIDX](https://idx.dev/)
 - Un navigateur web (Chrome, Firefox ...)
 - Un smartphone avec un navigateur web (Chrome, Firefox ...)
 
-- avoir un compte Github
-- avoir un compte Gmail
 
 
 # Matériel à votre disposition
@@ -204,16 +206,17 @@ Ajouter le code HTML : Copiez et collez le code HTML suivant dans votre fichier 
 ```HTML
 <!DOCTYPE html>
 <html>
+
 <head>
   <title>Ma première app AR</title>
-  <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
-  <script src="https://raw.githubusercontent.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.js"></script>   
-
+  <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+  <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script> 
 </head>
+
 <body>
     <a-scene embedded
     arjs="sourceType: webcam; detectionMode: mono_and_matrix; matrixCodeType: 3x3; trackingMethod: best ; changeMatrixMode: modelViewMatrix;"
-    renderer="sortObjects: true; antialias: true; colorManagement: true; physicallyCorrectLights; logarithmicDepthBuffer: true;"
+    renderer="sortObjects: true; antialias: true; colorManagement: true; logarithmicDepthBuffer: true;"
 
     vr-mode-ui="enabled: false"
 
