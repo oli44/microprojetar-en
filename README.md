@@ -269,9 +269,9 @@ Deux parties principales : À l'intérieur du "sandwich HTML", on trouve deux pa
 **La tête** (```<head>``` et ```</head>```) : C'est comme les informations sur l'emballage du sandwich. On y met des informations importantes pour le navigateur, mais qui ne sont pas affichées directement à l'utilisateur. 
 
 Par exemple :
-- Le titre de la page ```<title>```
+- Le titre de la page ```<title>``` qui décrit au navigateur quoi afficher dans la barre d'onglets.
 
-- Des liens vers des fichiers CSS pour le style
+- Des liens vers des fichiers CSS pour charger la mise en page
 
 - Des liens vers des fichiers JavaScript pour les fonctionnalités interactives
 
@@ -319,6 +319,7 @@ Dans la partie ```<head>```, nous ajoutons :
   ```
 
 - la *Bibliothèque A-Frame* : Il inclut la bibliothèque A-Frame (aframe.min.js) qui est un framework JavaScript permettant de créer des expériences de réalité virtuelle (RV) et de RA en utilisant du HTML.
+Une bibliothèque est simplement du code que l'on ammène dans le projet pour ajouter des fonctionnalités supplémentaires. Un framework est une bibliothèque qui nécessite de respecter certaines regles pour bien marcher, mais en echange un framework est plus puissante qu'une bibliothèque normale.
   ```html
   <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
   ``` 
