@@ -42,6 +42,12 @@ Nous allons utiliser différents outils gratuits :
   <img src="ressources/PXL_20240912_065600761.jpg" alt="photo of all the elemnnts" width="75%" />
 </div>
 
+<details>
+<summary📽️Speedrun video : ce tuto parait long ... en vrai non, ça prend moins de 10 minutes></summary>
+https://github.com/user-attachments/assets/0d7ed300-bff6-4171-a3a7-28d8e4be6978 
+</details>
+
+
 Pour l'assemblage, rien de plus simple :
 - coller le sticker sur le carré en carton bois sur l'emplacement délimité par la gravure.
 - coller la puce RFID, centrée, au dos de ce carré.
@@ -52,6 +58,8 @@ et voilà ! on est prêts à passer sur la partie numérique !
 Si vous voulez plus d'infos sur cette partie là
 - [Explications de la découpe stickers](https://github.com/LucieMrc/SilhouetteCameo_2spi)
 - [Explications sur la découpe laser](https://github.com/b2renger/Introduction_Laser_Beambox)
+
+
 
 # Étape 1 : Créer un compte GitHub et un dépôt
 - Créer un compte GitHub : Si vous n'en avez pas déjà un, rendez-vous sur https://github.com/signup?source=login et créez un compte.
