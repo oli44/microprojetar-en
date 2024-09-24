@@ -60,6 +60,7 @@ Si vous voulez plus d'infos sur cette partie là
 📽️Speedrun video : 
 - ce tuto parait long ...
 - en vrai non, ça prend moins de 10 minutes !
+  
 https://github.com/user-attachments/assets/0d7ed300-bff6-4171-a3a7-28d8e4be6978 
 
 
