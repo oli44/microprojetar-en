@@ -33,13 +33,13 @@ Nous allons utiliser différents outils gratuits :
 
 
 # Matériel à votre disposition
-- un petit carré de carton bois au bords arrondis
-- un sticker découpé sur vynile mat
+- un petit carré de carton bois aux bords arrondis
+- un sticker découpé sur vinyle mat
 - un petit cordon métallique avec une attache
-- une petite puce rfid
+- une petite puce RFID
 
 <div align="center"> 
-  <img src="ressources/PXL_20240912_065600761.jpg" alt="photo of all the elemnnts" width="75%" />
+  <img src="ressources/PXL_20240912_065600761.jpg" alt="photo of all the elements" width="75%" />
 </div>
 
 
@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/0d7ed300-bff6-4171-a3a7-28d8e4be6978
 # Étape 1 : Créer un compte GitHub et un dépôt
 - Créer un compte GitHub : Si vous n'en avez pas déjà un, rendez-vous sur https://github.com/signup?source=login et créez un compte.
 
-**☢️ Le nom d'utilisateur que vous choisissez sera utilisé pour l'adresse qu'il faudra tapper pour voir votre projet. <u>Choisissez un nom court ! sans espaces, sans caractères spéciaux (accents etc.)</u>**
+**☢️ Le nom d'utilisateur que vous choisissez sera utilisé pour l'adresse qu'il faudra tapper pour voir votre projet. <u>Choisissez un nom court ! sans espaces, sans caractères spéciaux (accents, cédille, etc.)</u>**
 
 <div align="center"> 
   <img src="ressources/Capture_signup_github.png" alt="signup github page" width="49%" height="400"/>
@@ -100,14 +100,14 @@ Nous allons maintenant configurer GitHub Pages, pour permettre à notre projet d
 <img src="ressources/Capture_github_settings_pages.png" alt="Pages menu to access gh-pages settings" width="75%" />
 </div>
 
-- Sélectionner la branche : Dans la section "GitHub Pages", sélectionnez la branche main (ou la branche principale de votre dépôt).
+- Sélectionner la branche : Dans la section "GitHub Pages", sélectionnez la branche "main" (ou la branche principale de votre dépôt).
 - Enregistrer les modifications : Cliquez sur le bouton "Save". Votre site GitHub Pages sera maintenant accessible à l'adresse https://[votre-nom-utilisateur].github.io/[microprojetAr].
 
 <div align="center"> 
 <img src="ressources/Capture_github_settings_pages_activate.png" alt="activate gh-pages" width="75%" />
 </div>
 
-Si vous revenez sur la page d'accueil de votre projet, vous remarquerez au bout de quelques minutes, que certains éléments ont changé. Un déploiement est maintenant disponible !
+Si vous revenez sur la page d'accueil de votre projet, vous remarquerez au bout de quelques minutes, que certains éléments ont changés. Un déploiement est maintenant disponible !
 
 <div align="center"> 
 <img src="ressources/Capture_github_settings_pages_done.png" alt="gh-pages settings done" width="75%" />
@@ -126,12 +126,12 @@ Importer le dépôt : Utilisez l'option pour importer votre dépôt GitHub dans 
 <img src="ressources/Capture_projetIDX_importRepo.png" alt="import repo in projetIDX" width="75%" />
 </div>
 
-Copiez l'adresse du dépot créé précédement.
+Copiez l'adresse du dépot créé précédemment.
 <div align="center"> 
 <img src="ressources/Capture_projetIDX_importRepo2.png" alt="import repo in projetIDX" width="75%" />
 </div>
 
-Configurer le projet pour un usage de developpement web.
+Configurer le projet pour un usage de développement web.
 
 - Créer un dossier ".idx":
   <div align="center"> 
@@ -147,7 +147,7 @@ Configurer le projet pour un usage de developpement web.
   <img src="ressources/ProjetIDX_comf.png" alt="create a new file in project IDX" width="75%" />
   </div>
 
-- Copier le code de configuration de l'environnement de developpement dans le fichier "dev.nix" que vous venez de créer. (Ce fichier va nous permettre de tester notre code directement dans projetIDX et aussi de tester sur notre téléphone).
+- Copier le code de configuration de l'environnement de développement dans le fichier "dev.nix" que vous venez de créer. (Ce fichier va nous permettre de tester notre code directement dans projetIDX et aussi de tester sur notre téléphone).
   ```
     # To learn more about how to use Nix to configure your environment
   # see: https://developers.google.com/idx/guides/customize-idx-env
@@ -205,7 +205,7 @@ Il ne vous reste plus qu'à cliquer sur le bouton "Rebuild Environment" et c'est
 
 # Étape 4 : Créer la page HTML
 
-Créer un fichier index.html : Dans votre projet IDX, créez un fichier nommé **"index.html."**
+Créer un fichier index.html : Dans votre projet IDX, créez un fichier nommé **"index.html"**.
 
 <div align="center"> 
 <img src="ressources/Capture_projetIDX_newFile.png" alt="create a new file in project IDX" width="75%" />
@@ -254,7 +254,7 @@ Ajouter le code HTML : Copiez et collez le code HTML suivant dans votre fichier 
 
 
 # Étape 5 : Comprendre le code
-Ce code crée une expérience simple de réalité augmentée (RA) en utilisant A-Frame et AR.js. Décomposons ce que fait chaque partie :
+Ce code créer une expérience simple de réalité augmentée (RA) en utilisant A-Frame et AR.js. Décomposons ce que fait chaque partie :
 
 Si vous n'êtes pas à l'aise et ne connaissez pas du tout la manière dont du code html fonctionne cliquez sur le petit triangle pour déplier une explication des bases de la syntaxe html
 
@@ -346,7 +346,7 @@ Dans la partie ```<body>```, et c'est ici que tout ce joue pour le contenu visib
 
   </a-scene>
   ```
-  Remarquez qu'avant le chevron fermant '>' de la balise ```<a-scene>``` nous ajoutons beaucoup d'options (qui s'appellent attributs en html)  pour configuer la manière dont la scène va s'afficher.
+  Remarquez que dans la balise ouvrante ```<a-scene>``` nous ajoutons beaucoup d'options (qui s'appellent attributs en html)  pour configuer la manière dont la scène va s'afficher.
 
   <details > <summary> <b>&#128161 les détails des options de configuration de l'attribut arjs</b> </summary>
   - *embedded* : Cet attribut indique à A-Frame d'intégrer la scène dans la page HTML.
