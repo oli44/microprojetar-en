@@ -87,7 +87,9 @@ https://github.com/user-attachments/assets/0d7ed300-bff6-4171-a3a7-28d8e4be6978
 
 
 # Étape 2 : Activer GitHub Pages
-Nous allons maintenant configurer GitHub Pages, pour permettre à notre projet d'être servi par les serveurs de github lorsque l'on rentre l'adresse : https://[votre-nom-utilisateur].github.io/[votre-depot]
+Nous allons maintenant configurer GitHub Pages, pour permettre à notre projet d'être servi par les serveurs de github lorsque l'on rentre l'adresse : 
+
+ https://*[votre-nom-utilisateur]*.github.io/*[votre-depot]*
 
 
 - Accéder aux paramètres : Dans votre dépôt, cliquez sur l'onglet "Settings", puis sur l'onglet "Pages"
