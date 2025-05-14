@@ -1,80 +1,49 @@
 # Introduction
-Dans ce tutoriel, nous allons vous guider pas à pas dans la création d'une application web en réalité augmentée (AR) simple. 
+This tutorial is a step by step guide on how to create a simple augmented relaity (AR) web application.
 
-https://github.com/user-attachments/assets/f4b1f979-b22c-443c-ae03-740b0111a7f0
-
-L'objectif est de voir ensemble toute la chaine technique qui permet à un projet d'exister en tant que page web. Nous verrons aussi comment écrire des informations sur des puces RFID.
-
-Nous utiliserons A-Frame, un framework web open-source pour créer des expériences VR/AR, et AR.js, une bibliothèque JavaScript qui permet d'intégrer des fonctionnalités AR dans les applications web. 
+First of all we need to setup the toolchain that enables the project as a web page. We'll use A-Frame , an open-source web framework to create VR/AR experience, and AR.js, a Javascript library used in order to integrate AR functionalities in web apps. 
 
 Notre objectif sera d'afficher le texte "Hello" sur un marqueur AR de type code-barres. Puis de customiser le contenu.
+Our Goal is to display the "Hello" text, on an AR marker of the barcode typen, then we'll see how to customize the content.
 
-Ce petit projet comprend aussi la réalisation d'une "étiquette" / "porte clé".
 <div align="center">
   <img src="ressources/markup_1000019121.png" alt="text disaplyed in ar" width="45%" height="400"/>
   <img src="ressources/markup_1000019122.png" alt="3d model displayed in ar" width="45%" height="400"/>
 </div>
 
-Nous allons utiliser différents outils gratuits :
-- github : pour versionner votre code et hébérger gratuitement votre projet.
-- projectIDX : qui est un IDE (integrated development environment) qui permet d'écrire du code et qui se connecte à github pour hierarchiser les changements dans notre code.
-- nfctools : qui est une application pour android ou iOS et qui nous permettra d'écrire de l'information sur notre sticker RFID.
+We'll use th efollowing free tools:
+-github: to version your code and host it for free
+-projectIDX, now known as Google Firebase: it is an IDE (integrated development environment) that allows to write code and connects to your github repo to sort out the changes made to your code.
 
-# Prérequis
+# Requirements
+- having a Github account
+- having a Gmail account
 
-- avoir un compte Github
-- avoir un compte Gmail
+- a computer
+- a code editor, our tools will be : [Firebase Studio](https://studio.firebase.google.com/?pli=1))
+- a decent web browser(Chrome, Firefox ...)
+- a smartphone running a web browser (Chrome, Firefox ...)
 
-- Un ordinateur
-- Un éditeur de code notre outil sera : [projectIDX](https://idx.dev/)
-- Un navigateur web (Chrome, Firefox ...)
-- Un smartphone avec un navigateur web (Chrome, Firefox ...)
-
-
-
-# Matériel à votre disposition
-- un petit carré de carton bois aux bords arrondis
-- un sticker découpé sur vinyle mat
-- un petit cordon métallique avec une attache
-- une petite puce RFID
-
-<div align="center"> 
-  <img src="ressources/PXL_20240912_065600761.jpg" alt="photo of all the elements" width="75%" />
-</div>
+ Here we go! 
 
 
-
-
-Pour l'assemblage, rien de plus simple :
-- coller le sticker sur le carré en carton bois sur l'emplacement délimité par la gravure.
-- coller la puce RFID, centrée, au dos de ce carré.
-- dévisser l'attache et faite la passer dans le trou.
-
-et voilà ! on est prêts à passer sur la partie numérique !
-
-Si vous voulez plus d'infos sur cette partie là
-- [Explications de la découpe stickers](https://github.com/LucieMrc/SilhouetteCameo_2spi)
-- [Explications sur la découpe laser](https://github.com/b2renger/Introduction_Laser_Beambox)
-
-
-📽️Speedrun video : 
-- ce tuto parait long ...
-- en vrai non, ça prend moins de 10 minutes !
+📽️Speedrun video (French, sorry!): 
+- this tutorial is waaay too long...
+- in fact , it takes < 10 minutes !
   
 https://github.com/user-attachments/assets/0d7ed300-bff6-4171-a3a7-28d8e4be6978 
 
 
-# Étape 1 : Créer un compte GitHub et un dépôt
-- Créer un compte GitHub : Si vous n'en avez pas déjà un, rendez-vous sur https://github.com/signup?source=login et créez un compte.
-
+# Step 1 : Create a GitHub account and a repository
+- If you don't already have one, point your browser to  https://github.com/signup?source=login and create an account.
+** ☢️ The username you pick we'll be used in the URL you'll have to type in to reach your project. <u>Pick a short name, without any space, or any accented character (çêœöü etc.)</u>**
 **☢️ Le nom d'utilisateur que vous choisissez sera utilisé pour l'adresse qu'il faudra tapper pour voir votre projet. <u>Choisissez un nom court ! sans espaces, sans caractères spéciaux (accents, cédille, etc.)</u>**
 
 <div align="center"> 
   <img src="ressources/Capture_signup_github.png" alt="signup github page" width="49%" height="400"/>
   <img src="ressources/Capture_login_github.png" alt="login github page" width="49%" height="400"/>
 </div>
-
-- Créer un nouveau dépôt : Une fois connecté, cliquez sur le bouton "New repository". Donnez un nom à votre dépôt (par exemple, "microProjetAr"), ajoutez une description facultative, et cliquez sur "Create repository".
+- Create a new repository: once logged in, click on the "New repository" button. Give a name to your repo (for instance, "microprojectAr"), add a facultative description, and click on the "Create repoository".
 
 <div align="center"> 
 <img src="ressources/Capture_github_newRepo.png" alt="menu to create new repo" width="75%" />
@@ -86,13 +55,13 @@ https://github.com/user-attachments/assets/0d7ed300-bff6-4171-a3a7-28d8e4be6978
 
 
 
-# Étape 2 : Activer GitHub Pages
-Nous allons maintenant configurer GitHub Pages, pour permettre à notre projet d'être servi par les serveurs de github lorsque l'on rentre l'adresse : 
+# Step 2 : activate GitHub Pages
+Let's setup Github Pages, to allow our project to be hosted on github servers located under the follwoing pattern: : 
 
- https://*[votre-nom-utilisateur]*.github.io/*[votre-depot]*
+ https://*[vyour-username]*.github.io/*[your-repository]*
 
 
-- Accéder aux paramètres : Dans votre dépôt, cliquez sur l'onglet "Settings", puis sur l'onglet "Pages"
+- Look for the parameters : Dans votre dépôt, cliquez sur l'onglet "Settings", puis sur l'onglet "Pages"
 
 <div align="center"> 
 <img src="ressources/Capture_github_settings.png" alt="menu to access gh-pages settings" width="75%" />
